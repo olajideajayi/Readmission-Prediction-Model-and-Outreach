@@ -9,6 +9,9 @@ Develop an all-cause 30-day readmission predictive model, which can be adopted f
 
 # Outcome to Customer
 With increasing numbers of target conditions included, more Medicare-participating hospitals have been penalized, saving Medicare millions of dollars. The HRRP has changed the landscape of hospital readmissions and reimbursement within the United States:
+
 •	Improve transitions of care and reduce unnecessary readmissions as one of national quality initiatives.
+
 •	Hospitals have focused on transitional care measures that are aimed to improve total care delivery.
+
 •	Cost saving measures by avoiding penalties.
